@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Data Filter\Data Filter\bin\Debug\Data Filter.exe.config
+C:\Users\Admin\source\repos\Data Filter\Data Filter\bin\Debug\Data Filter.exe
+C:\Users\Admin\source\repos\Data Filter\Data Filter\bin\Debug\Data Filter.pdb
+C:\Users\Admin\source\repos\Data Filter\Data Filter\obj\Debug\Data Filter.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Data Filter\Data Filter\obj\Debug\Data Filter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Data Filter\Data Filter\obj\Debug\Data Filter.exe
+C:\Users\Admin\source\repos\Data Filter\Data Filter\obj\Debug\Data Filter.pdb
